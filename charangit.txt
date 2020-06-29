@@ -1,0 +1,6 @@
+public class Git
+{
+int i=0;
+public static viod main(String arg[]){
+System.out.println("this is my first project using git");
+}}
